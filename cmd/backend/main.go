@@ -3,5 +3,5 @@ package main
 func main() {
 	var a int
 	a = 5
-	println(a)
+	println(a + 5)
 }
